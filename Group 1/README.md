@@ -24,3 +24,7 @@ Facts:
 
 5. The book was adapted to film dozens of times, including 	Tim Burton's 2010 "Alice in Underland".(False, it's "Alice in wonderland")
 
+
+6. Lewis Carroll wrote an amazing article called "What the Tortoise Said to Achilles", highly recommended by Shachar (It's even funny!)
+
+7. the phrase "Down the rabbit hole" was first introduced in this book.
