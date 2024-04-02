@@ -20,6 +20,7 @@ Facts:
 3. The story follows Alice as she falls through a rabbit hole into a fantasy world of anthropomorphic creatures.
 >>>>>>> Stashed changes
 
-4. The book had 2 sequels!
+4. The book had 2 sequels! (False)
 
-5. The book was adapted to film dozens of times, including 	Tim Burton's 2010 "Alice in Underland".
+5. The book was adapted to film dozens of times, including 	Tim Burton's 2010 "Alice in Underland".(False, it's "Alice in wonderland")
+
