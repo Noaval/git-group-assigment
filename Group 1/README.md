@@ -2,6 +2,7 @@
 
 Facts:
 
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 1. "Alice in Wonderland" is the name of a book published in 1865 by Lewis Carroll.
 =======
@@ -11,6 +12,13 @@ Facts:
 2. Lewis Carroll was the pen name of James Brown (not the singer!) FALSE
 
 3. The story follows Alice as she falls through a rabbit hole into a fantasy world of anthropomorphic creatures. 
+=======
+1. "Alice in Wonderland" is the name of a book published in 1865 by Lewis Carroll.
+
+2. Lewis Carroll was the pen name of James Brown (not the singer!) FALSE
+
+3. The story follows Alice as she falls through a rabbit hole into a fantasy world of anthropomorphic creatures.
+>>>>>>> Stashed changes
 
 4. The book had 2 sequels!
 
