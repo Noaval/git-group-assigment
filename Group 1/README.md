@@ -2,11 +2,15 @@
 
 Facts:
 
-1. "Alice in Wonderland" is the name of a book published in 1865 by Lewis Carroll. TRUE
+<<<<<<< HEAD
+1. "Alice in Wonderland" is the name of a book published in 1865 by Lewis Carroll.
+=======
+1. "Alice in Wonderland" is the name of a book published in 1865 by Lewis Carroll.(True)
+>>>>>>> 1a3eaf88788b41def7c06dfeda7c99b7145992c5
 
 2. Lewis Carroll was the pen name of James Brown (not the singer!) FALSE
 
-3. The story follows Alice as she falls through a rabbit hole into a fantasy world of anthropomorphic creatures. TRUE
+3. The story follows Alice as she falls through a rabbit hole into a fantasy world of anthropomorphic creatures. 
 
 4. The book had 2 sequels!
 
